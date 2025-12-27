@@ -1,3 +1,5 @@
+![Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FLogicAziz%2FLLM-Lifecycle-Practicum&label=Project%20Views&labelColor=%232d3436&countColor=%230984e3&style=flat-square)
+
 # 🚀 Generative AI with Large Language Models (LLMs) - Lab Solutions
 
 This repository contains my practical implementations and technical notes for the **Generative AI with LLMs** course labs. The project covers the entire LLM lifecycle, from prompt engineering to fine-tuning and model evaluation.
